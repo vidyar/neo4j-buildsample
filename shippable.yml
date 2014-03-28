@@ -10,9 +10,3 @@ install:
 
 script:
   - ruby sample.rb
-notifications:
-  email:
-     - vidya@shippable.com
-     - vidyatest@hotmail.com
-     - vidyatest@rediffmail.com
-     - vidyatest22@yahoo.in
