@@ -12,3 +12,6 @@ install:
 
 script:
   - ruby sample.rb
+
+notifications:
+  email: false
